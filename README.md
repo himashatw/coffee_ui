@@ -1,16 +1,5 @@
-# coffee_ui
+# Coffee App UI (Dark Mode)
 
-A new Flutter project.
+![preview](https://cdn.dribbble.com/users/2947819/screenshots/15475209/media/2efcc13ca4bb359f0e4f85eb46688062.png?compress=1&resize=768x576&vertical=top)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### The dribbble design: https://dribbble.com/shots/15475209-Coffee-Shop-Mobile-Apps-Dark-Mode
